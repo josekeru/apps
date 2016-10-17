@@ -1,0 +1,76 @@
+
+
+/* para footer fijo */
+.movie-box p{
+  text-align: center;
+  color: white;
+
+}
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: #3b3e40;
+}
+
+main {
+  flex: 1 0 auto;
+}
+.content {
+ height: 100px;
+}
+
+img {
+  width: 200px;
+  height: 300px;
+}
+nav .nav-wrapper form, nav .nav-wrapper form .input-field{
+  height: 100%;
+  background-color: black;
+}
+
+.navPersonalize{
+  background-color: black;
+}
+.hazte-cliente{
+  background-color: #4CAF50;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.imgSmall{
+  margin-top: 10px;
+  width: 80px;
+  height: 45px;
+}
+.styleFooter{
+  background-color: black !important;
+}
+.movie-box{
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+  margin: 15px;
+}
+.center{
+  margin: 0 auto !important;
+}
+.blue{
+  background-color: #6e75a7 !important;
+  
+}
+
+#movie img{
+  width: 100%;
+  height: 100%;
+
+}
+
+#movie p{
+  text-align: justify;
+
+}
+
+.categoryMenu{
+  margin-left: 40%;
+}

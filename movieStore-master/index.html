@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es" ng-app="film">
+<head>
+	<meta charset="UTF-8">
+	<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" href="css/mystyle.css">
+
+	<script type="text/javascript" src="js/jquery-2.2.4.min.js"></script>
+	<script type="text/javascript" src="js/materialize.min.js"></script>
+	<script type="text/javascript" src="js/jquery_functions.js"></script>
+	<title>Movies</title>
+</head>
+<body ng-controller="HomeViewController">
+	<nav class="navPersonalize">
+		<div class=container>
+			<a href="#/" class="brand-logo"><img class="imgSmall" src="img/logo.jpg" alt=""></a>
+
+			<ul id="nav-mobile" class="right hide-on-med-and-down">
+
+				<li><a href="#/contact">CONTACTA</a></li>
+				<li><a href="#">IDENTIFÍCATE</a></li>
+				<li class= "hazte-cliente">CONTRATA</li>
+
+
+			</ul>
+		</div>
+	</nav>
+	<nav>
+	<div class="blue nav-wrapper">
+			<ul id="nav-mobile" class="categoryMenu hide-on-med-and-down">
+				<li><a href="#category/filter/Action">ACCIÓN</a></li>
+				<li><a href="#category/filter/Drama">DRAMA</a></li>
+				<li><a href="#category/filter/Terror">TERROR</a></li>
+			</ul>
+		</div>
+	</nav>
+
+</div>
+
+<div id ="cont" ng-view>
+
+</div>
+
+
+
+<footer class="page-footer styleFooter">
+	<div class="container">
+		<div class="row">
+			<div class="col l6 s12">
+				<h5 class="white-text"></h5>
+				<p class="grey-text text-lighten-4"></p>
+			</div>
+			<div class="col l4 offset-l2 s12">
+				<h5 class="white-text">Links</h5>
+				<ul>
+					<li><a class="grey-text text-lighten-3" href="#!">GitHub</a></li>
+					<li><a class="grey-text text-lighten-3" href="#!">Facebook</a></li>
+					<li><a class="grey-text text-lighten-3" href="#!">Twitter</a></li>
+
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="footer-copyright">
+		<div class="container">
+			Todos los derechos reservados © 2016 Copyright 
+		</div>
+	</div>
+</footer>
+
+
+<script type="text/javascript" src="js/angular.min.js"></script>
+<script type="text/javascript" src="js/angular-route.min.js"></script>
+<script type="text/javascript" src="js/angular-messages.min.js"></script>
+<script type="text/javascript" src="js/app.js"></script>
+</body>
+</html>

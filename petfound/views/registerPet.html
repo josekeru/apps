@@ -1,0 +1,61 @@
+<h1><strong>Formulario para guardar la información de los animales encontrados/perdidos</strong></h1>
+
+<div ng-style="{'background-image': 'url(https://s-media-cache-ak0.pinimg.com/236x/39/51/ee/3951ee343b6e94a2f2eeff1656554cbf.jpg)'}">
+
+<div class="container formu">
+
+	<form action="" method="POST">
+	
+
+		<div class="form-group">
+			<label for="nombre" class="control-label"><strong>Nombre de Contacto</strong></label>
+			<input type="text" ng-model="pet.nombre" name="nombre" placeholder="nombre contacto" class="form-control">
+		</div>
+
+		<div class="form-group">
+			<label for="description" class="control-label"><strong>Descripción</strong></label>	
+			<textarea type="text" ng-model="pet.description" name="description" placeholder="descripción del animal, IMPORTANTE poner color de pelo, zona dónde se ha encontrado/perdido (calle, cerca de...), el tamaño del animal (mediano, pequeño o grande), etc..." class="form-control" rows="7" maxlength="3000" style="resize:none"></textarea>
+		</div>
+
+		<div class="form-group">
+			<label for="option" class="control-label"><strong>Opción</strong></label>
+			<select name="option" id="option" ng-model="pet.option" class="form-control" required>
+				<option value="encontrado">Encontrado</option>
+				<option value="perdido">Perdido</option>
+				</select>
+		</div>
+
+		<div class="form-group">
+			<label for="telefonoContacto" class="control-label"><strong>Teléfono de Contacto</strong></label>
+			<input type="tel" ng-model="pet.telefonoContacto" placeholder="Teléfono de Contacto" name="telefonoContacto" class="form-control" maxlength="9">
+		</div>
+
+		<div class="form-group">
+			<label for="location" class="control-label"><strong>Localización</strong></label>
+			<input type="text" ng-model="pet.location" placeholder="Localización ciudad" name="location" class="form-control">
+		</div>
+
+		<div class="form-group">
+			<label for="type" class="control-label"><strong>Tipo de Animal</strong></label>
+			<select name="type" id="type" ng-model="pet.type" class="form-control" required>
+				<option value="perro">perro</option>
+				<option value="gato">gato</option>
+				<option value="pajaro">pájaro</option>
+				<option value="otro">otro</option>
+			</select>
+		</div>
+		<!-- <input type="submit" value="Register" name="submit" /> -->
+		<div class="form-group recuadro">
+			<div class="col-md-12 evt-drag-image">
+				
+				<div class="button drop-box" ngf-drop ngf-select ng-model="filebckg" name="filebckg" ngf-pattern="'image/*'" ngf-accept="'image/*'" ngf-max-size="10MB"><strong>Subir la imagen</strong>
+				
+				<img ngf-src="filebckg" class="evt-img-preview"></div>
+			</div>
+		</div>
+		<div class="text-center button-submit">
+		<button type="button" class="btn btn-success" data-ng-click="addNewPet()" name="add"><a href="#/">Registrar el animal y volver al inicio</a></button>
+		</div>
+	</form>
+	{{message}}
+</div></Div>

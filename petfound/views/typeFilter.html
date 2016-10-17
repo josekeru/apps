@@ -1,0 +1,11 @@
+<section class="container" ng-controller="typeManager">
+	<form>
+		<span>Búsqueda por localización </span><input placeholder="Search by location" type="text" ng-model="locationFilter">
+		<span>Búsqueda por tipo de animal</span>
+				<input placeholder="Search by type of animal" type="text" ng-model="typeFilter"</input>
+	</form>
+
+	<div class="pet-element" ng-repeat="pet in pets | filter: {location: locationFilter, type: typeFilter}">
+		<p-element></p-element>
+	</div>	
+</section> 

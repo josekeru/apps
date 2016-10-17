@@ -1,0 +1,107 @@
+.topimage {
+	width: 100%;
+	height: 100%; 
+	object-fit: none;
+}
+
+
+.jumbotron {
+	background-color: #C8DEE3;
+	height: 300px
+}
+
+.col-md-12 {
+	background-color: red;
+	height: 1000px;
+}
+.col-md-2 {
+	padding-right: 5px;
+	height: 1000px;
+}
+
+.pokename {
+	height:50px;
+	width: 90%;
+	padding-top:5px;
+	text-align: center;
+	color: white;
+}
+
+.poketype {
+	height: 50px;
+	width: 90%;
+	text-align: center;
+	font: 'pokemon', sans-serif;
+	text-align: center;
+}
+
+.pokedesc {
+	height: 250px;
+	width:90%;
+	text-align: center;
+	font: 'pokemon', sans-serif;
+	text-align: center;
+}
+
+
+.pkmnlist {
+	display: inline-block;
+	height: 250px;
+	margin: 10px;
+	position: relative;
+	width: 250px;
+	z-index: 1;
+}
+.pkmnlist {
+  	-webkit-perspective: 800;
+	-moz-perspective: 800;
+	perspective: 800;
+}
+
+.card {
+	box-shadow: 0px 0px 5px black;
+	height: 150px;
+	width: 100%;
+	margin-top: .5em;
+  	margin-bottom: .5em;
+  	margin-left: 4em;
+  	margin-right: .5em;
+  	text-align: center;
+
+	-webkit-transform-style: preserve-3d;
+	-webkit-transition: all 0.5s;
+    
+    -moz-transform-style: preserve-3d;
+	-moz-transition: all 0.5s;
+    
+    transform-style: preserve-3d;
+	transition: all 0.5s;
+}
+.pkmnlist:hover .card{
+	-webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+.card .lado{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	-webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+.card .frente{
+	background-color: black;
+	height: 100%;
+	width: 100%;
+}
+.card .atras{
+	background: #F0F0F0;
+	font-family: Helvetica, Verdana, Arial;
+	height: 100%;
+	width: 100%;
+	-webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}

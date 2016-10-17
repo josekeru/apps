@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html ng-app="furnitureShop">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Furniture Shop</title>
+	<link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
+	<link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection">
+	<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+
+<body ng-controller="SliderViewController">
+
+	<header class="navbar-fixed">
+		<nav>
+			<div class="nav-wrapper">
+				<a href="#/" class="brand-logo"><img src="img/logo.png" height="50"><div class="textLogo"> {{appTitle}}</div></a>
+				<ul class="right hide-on-med-and-down">
+					<li><a href="/furnitureShop/#/"><strong>Home</strong></a></li>
+					<li><a href="/furnitureShop/#/contact"><strong>Contact</strong></a></li>
+					<!-- Dropdown button-->
+					<li><a class="dropdown-button" href="#!" data-activates="dropdown1"><strong>Products</strong><i class="material-icons right">arrow_drop_down</i></a></li>
+				</ul>
+
+				<ul id="dropdown1" class="dropdown-content">
+					<li><a ng-click = "myfilter = {category: ''}" href="#/catalog">All Products</a></li>
+					<li><a ng-click = "myfilter = {category: 'chair'}" href="#/catalog/chair">Chair</a></li>
+					<li><a ng-click = "myfilter = {category: 'table'}" href="#/catalog/table">Table</a></li>
+					<li><a ng-click = "myfilter = {category: 'sofa'}" href="#/catalog/sofa">Sofa</a></li>
+				</ul>
+			</div>
+		</nav>
+	</header>
+
+
+	<main class="container" ng-view>
+
+	</main>
+
+
+	<footer class="page-footer">
+		<div class="container">
+			<div class="row">
+				<div class="col l12 s12 text-center">
+					<ul class="rrssIcons">
+						<li>
+							<a class="btn-floating waves-effect waves-light blue darken-4 rrssElement" href="https://es-es.facebook.com/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+
+							<a class="btn-floating waves-effect waves-light blue rrssElement" href="https://twitter.com/?lang=es"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+
+							<a class="btn-floating waves-effect waves-light brown darken-4 rrssElement" href="https://www.instagram.com/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+						</li>
+
+						<br/>
+
+						<li>
+							<a class="brown-text text-darkness-4 linkFooterElement" href="#!">Home</a>
+
+							<a class="brown-text text-darkness-4 linkFooterElement" href="#!">Contact</a>
+
+							<a class="brown-text text-darkness-4 linkFooterElement" href="#!">Location</a>
+							
+							<a class="brown-text text-darkness-4 linkFooterElement" href="#!">About</a>
+						</li>	
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="footer-copyright">
+			<div class="container brown-text text-darkness-4">
+				© 2016 Copyright Jose
+				<a class="brown-text text-darkness-4 right" href="#!"></a>
+			</div>
+		</div>
+	</footer>
+
+
+	<script src="js/jquery-2.2.4.min.js"></script>
+	<script src="js/materialize.min.js"></script>
+	<script src="js/angular.min.js"></script>
+	<script src="js/angular-route.min.js"></script>
+	<script src="js/app.js"></script>
+
+</body>
+</html>

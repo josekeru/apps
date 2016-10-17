@@ -1,0 +1,38 @@
+<header class="navbar-fixed">
+		<nav>
+			<div class="nav-wrapper">
+				<a href="/bandsApp14/#/"><div class="textLogo"> {{appTitle}}</div></a>
+			
+				<ul class="right hide-on-med-and-down">
+					<li><a ng-click = "myfilter = {decade: ''}" href="#/"><strong>All decades</strong></a></li>
+					<li><a ng-click = "myfilter = {decade: '1960'}" href="#/1960"><strong>60'</strong></a></li>
+					<li><a ng-click = "myfilter = {decade: '1970'}" href="#/1970"><strong>70'</strong></a></li>
+					<li><a ng-click = "myfilter = {decade: '1980'}" href="#/1980"><strong>80'</strong></a></li>
+					<li><a ng-click = "myfilter = {decade: '1990'}" href="#/1990"><strong>90'</strong></a></li>
+				</ul>
+			</div>
+		</nav>
+
+		<span class="input-field col s6 center seach-input center">
+			<input class="search" type="text" placeholder="Search band" ng-model="bandSearch">
+		</span>
+
+		<!--Filters buttons-->
+		<div class="fixed-action-btn horizontal" style="bottom: 45px; right: 24px;">
+		  <a class="btn-floating btn-large teal lighten-2 furnitureButton">
+		    All
+		  </a>
+
+		  <ul>
+		    <li><a href="#/band" ng-click = "myfilter = {decade: '1960'}"  class="btn-floating deep-purple lighten-2 furnitureButton">60'</a></li>
+
+		    <li><a href="#/band" ng-click = "myfilter = {decade: '1970'}" class="btn-floating lime lighten-2 furnitureButton">70'</a></li>
+
+		    <li><a href="#/band" ng-click = "myfilter = {decade: '1980'}" class="btn-floating orange lighten-2 furnitureButton">80'</a></li>
+
+		    <li><a href="#/band" ng-click = "myfilter = {decade: '1990'}" class="btn-floating orange lighten-2 furnitureButton">90'</a></li>
+
+		    <li><a href="#/band" ng-click = "myfilter = {decade: ''}" class="btn-floating deep-orange lighten-2 furnitureButton">All</a></li>
+		  </ul>
+		</div>
+	</header>

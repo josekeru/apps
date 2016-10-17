@@ -1,0 +1,110 @@
+body {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+   background-color: #424242;
+ }
+
+main {
+  flex: 1 0 auto;
+}
+
+nav .nav-wrapper {
+  background-color: #aed581;
+  color: #563909 ;
+  height: 100%;
+  position: relative;
+}
+
+nav ul a {
+  color: #1F3A00 ;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1rem;
+  padding: 0 15px;
+  transition: background-color .3s;
+}
+
+nav .brand-logo {
+  color: #fff;
+  display: inline-block;
+  font-size: 2.1rem;
+  padding: 7px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.search {
+  width: 30% !important;
+  text-align: center;
+  position: fixed;
+  left: 33%;
+}
+
+.furnitureButton {
+  text-align: center;
+  color: black;
+}
+
+.textLogo {
+  color: #264206;
+  display: inline;
+  font-size: -webkit-xxx-large;
+  font-variant: normal;
+  font-weight: bolder;
+  top: 0;
+}
+
+.small-icon {
+  width: 20%;
+}
+
+.card {
+  display: inline-block;
+  margin-left: 4%;
+  width: 28%;
+}
+
+.card .card-title {
+  font-size: 20px;
+  font-weight: 500;
+}
+.card .card-content .card-title {
+  line-height: 70px;
+}
+
+.card .card-image img {
+  border-radius: 2px 2px 0 0;
+  display: block;
+  margin: auto;
+  position: relative;
+  max-height: 9em;
+}
+
+.fullCardProduct {
+  margin: 2% 17%;
+  width: 65%;
+}
+
+footer.page-footer {
+  background-color: #aed581;
+  clear: both;
+  margin-top: 20px;
+  padding-top: 20px;
+  width: 100%;
+  bottom: 0;
+}
+
+.rrssIcons {
+  text-align: center;
+}
+
+.rrssElement {
+  margin: 0 4%;
+}
+
+.linkFooterElement {
+  font-size: medium;
+  font-weight: 700;
+  margin: 5% 3%;
+}

@@ -1,0 +1,252 @@
+[
+						{
+
+							"name": "camisas",
+							"id": "1",
+							"image": "images/camisa1.jpg",
+							"description": "Camisa de corte estándar en azul a cuadros New York"
+		
+						},
+
+						{
+							"name": "camisas",
+							"id": "2",
+							"image": "images/camisa2.jpg",
+							"description": "Camisa vaquera ajustada a cuadros color caqui"
+		
+						},
+
+						{
+							"name": "camisas",
+							"id": "3",
+							"image": "images/camisa3.jpg",
+							"description": "Camisa slim de vestir con cuello en punta de Reiss"
+		
+						},
+
+						{
+							"name": "camisas",
+							"id": "4",
+							"image": "images/camisa4.jpg",
+							"description": "Camisa de corte estándar con logo de bandera en azul NY"
+		
+						},
+
+						{
+							"name": "camisas",
+							"id": "5",
+							"image": "images/camisa5.jpg",
+							"description": "Hollister Shirt In Slim Fit With Short Sleeves In Print"
+		
+						},
+
+						{
+							"name": "camisas",
+							"id": "6",
+							"image": "images/camisa6.jpg",
+							"description": "Camisa de manga corta con estampado floral"
+		
+						},
+
+						{
+							"name": "camisas",
+							"id": "7",
+							"image": "images/camisa7.jpg",
+							"description": "Camisa de corte estándar con estampado de cachemir"
+		
+						},
+
+						{
+							"name": "camisas",
+							"id": "8",
+							"image": "images/camisa8.jpg",
+							"description": "Camisa ajustada con estampado de palmeras"
+		
+						},
+
+						{
+							"name": "camisas",
+							"id": "9",
+							"image": "images/camisa9.jpg",
+							"description": "ASOS Skinny Shirt In 2 Colour Check With Long Sleeves"
+		
+						},
+
+						{
+							"name": "camisas",
+							"id": "10",
+							"image": "images/camisa10.jpg",
+							"description": "Camisa ajustada con estampado de cuadrícula azul"
+		
+						},
+
+
+
+
+						{
+							"name": "vestidos",
+							"id": "11",
+							"image": "images/vestidos1.jpg",
+							"description": "Vestido de cuello subido con lazo de Young Bohemians"
+		
+						},
+
+						{
+							"name": "vestidos",
+							"id": "12",
+							"image": "images/vestidos2.jpg",
+							"description": "Minivestido camisero con cinturón de C/meo Collective"
+		
+						},
+
+						{
+							"name": "vestidos",
+							"id": "13",
+							"image": "images/vestidos3.jpg",
+							"description": "Vestido con diseño cruzado en la parte delantera y espalda"
+		
+						},
+
+						{
+							"name": "vestidos",
+							"id": "14",
+							"image": "images/vestidos4.jpg",
+							"description": "Vestido con diseño cruzado en la parte delantera y espalda"
+		
+						},
+
+						{
+							"name": "vestidos",
+							"id": "15",
+							"image": "images/vestidos5.jpg",
+							"description": "Boohoo Ditsy Floral Cord Pinafore Dress"
+		
+						},
+
+						{
+							"name": "vestidos",
+							"id": "16",
+							"image": "images/vestidos6.jpg",
+							"description": "Vestido Senorita de Jen's Pirate Booty"
+		
+						},
+
+						{
+							"name": "vestidos",
+							"id": "17",
+							"image": "images/vestidos7.jpg",
+							"description": "Vestido a rayas con doble capa Picnic de ASOS"
+		
+						},
+
+						{
+							"name": "vestidos",
+							"id": "18",
+							"image": "images/vestidos8.jpg",
+							"description": "Vestido bordado Garden Trellis de ASOS"
+		
+						},
+
+						{
+							"name": "vestidos",
+							"id": "19",
+							"image": "images/vestidos9.jpg",
+							"description": "Vestido a media pierna a rayas de BCBG Generation"
+		
+						},
+
+						{
+							"name": "vestidos",
+							"id": "20",
+							"image": "images/vestidos10.jpg",
+							"description": "Vestido skater de manga larga con bordado de cachemir"
+		
+						},
+
+				
+
+
+						{
+							"name": "complementos",
+							"id": "21",
+							"image": "images/complementos1.jpg",
+							"description": "Gorra de satén color rosita con brillo de ASOS"
+		
+						},
+
+						{
+							"name": "complementos",
+							"id": "22",
+							"image": "images/complementos2.jpg",
+							"description": "Cinturón con riñonera y doble hebilla estilo oeste de cuero"
+		
+						},
+
+						{
+							"name": "complementos",
+							"id": "23",
+							"image": "images/complementos3.jpg",
+							"description": "Funda para iPhone 6 y 6s con diseño de gatoUnicornioSirena"
+		
+						},
+
+						{
+							"name": "complementos",
+							"id": "24",
+							"image": "images/complementos4.jpg",
+							"description": "Cinturón de cadera con borlas y placa western"
+		
+						},
+
+						{
+							"name": "complementos",
+							"id": "25",
+							"image": "images/complementos5.jpg",
+							"description": "Llavero con pompón extragrande de ASOS"
+	
+						},
+
+						{
+							"name": "complementos",
+							"id": "26",
+							"image": "images/complementos6.jpg",
+							"description": "Llavero con cara y pompón de piel de Monki color azul de Asos"
+		
+						},
+
+						{
+							"name": "complementos",
+							"id": "27",
+							"image": "images/complementos7.jpg",
+							"description": "Banda para el pelo con estampado de Made multicolores de Asos"
+		
+						},
+
+						{
+							"name": "complementos",
+							"id": "28",
+							"image": "images/complementos8.jpg",
+							"description": "Gafas de sol ojos de gato hechas a mano con detalles en las esquinas"
+		
+						},
+
+						{
+							"name": "complementos",
+							"id": "29",
+							"image": "images/complementos9.jpg",
+							"description": "Gafas de sol extragrande con montura angular estilo años 70 de ASOS"
+		
+						},
+
+						{
+							"name": "complementos",
+							"id": "30",
+							"image": "images/complementos10.jpg",
+							"description": "Gafas de sol de ojos de gato con parte superior de metal y lentes rosas de ASOS"
+		
+						}	
+
+
+
+]
+

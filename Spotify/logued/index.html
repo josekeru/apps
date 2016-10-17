@@ -1,0 +1,85 @@
+<html>
+
+<head>
+    <title>Spotify Player</title>
+    <script src="js/jquery-2.2.4.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+
+
+</head>
+
+<body>
+
+    <div class="widget">
+
+        <img src="http://usuarios.discapnet.es/tifloinforma/imagen/spotify-logo.png" align="center" width="200" alt="img" />
+
+        <img src="http://i96.photobucket.com/albums/l175/dielover/spotify-4.png~original" align="rigth" width="70" alt="img" />
+
+
+
+        <form>
+
+            <input type="text" id="box" name="box" placeholder="busca la canción" value=" ">
+            <button id="submit">Elige ya xurrita</button>
+
+        </form>
+    </div>
+
+
+    <div class="widget">
+
+        <h3><strong>  Has encontrado: <span class="searched"></span></strong></h3>
+
+    </div>
+
+    <div class="widget">
+        <div class="header">
+
+            <div class="btn-play"></div>
+
+            <div class="metadata">
+                <p class="title"></p>
+                <p class="author" id="artist"></p>
+
+                <div id="seekbar">
+                    <progress value="0" max="30"></progress>
+                </div>
+            </div>
+        </div>
+        <div class="cover"></div>
+
+        <div class="track">
+            <audio src="" id="song">No se ha encontrado nada.</audio>
+        </div>
+        <ul class="group">
+
+
+
+    </div>
+    <div class="listCan">
+    <div id="results"></div>
+    </div>
+
+    <div class="list">
+    
+        
+        <a href="locaTracks/index.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo3tw2OyB0EMHUnyGc-VjysyucCp7k9OCcoQ9qMJ00pvP42GU7Bw" alt="musica" />
+            
+        </a><p><h2><strong>Ir a canciones guardadas</strong></h2></p>
+    
+
+    </div>
+
+
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/player.js"></script>
+
+
+
+</body>
+
+</html>

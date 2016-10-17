@@ -1,0 +1,109 @@
+body{
+  padding-top: 80px;
+}
+
+a, span, li, .caret{
+  color:black;
+}
+
+
+input.ng-invalid {
+	border: rgba(215, 44, 44, 0.6) solid 1px;
+}
+
+
+.carousel {
+  height: 500px;
+  margin-bottom: 60px;
+  padding: 20px;
+
+}
+
+
+.carousel .item {
+  height: 500px;
+  background-color: #777;
+  
+
+}
+.carousel-inner > .item > img {
+  position: center;
+  top: 0;
+  left: 0;
+  min-width: 40%;
+  height: 100px;
+  margin-left: 350px;
+
+  
+}
+ 
+  .carousel-caption p {
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: 1.4;
+
+
+  }
+
+.clothe, .p{
+	display:inline-block;
+	padding:10px;
+}
+
+p{
+	width: 200px;
+}
+
+
+
+#navbar-ropa {
+  
+    font-size: 20px;
+    background-color: grey;
+
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: black;
+    font-weight: bold;
+    text-shadow: green;
+
+}
+
+
+#logo {
+  width: 90px;
+}
+
+
+footer{
+  background-color: grey;
+    bottom: 0;
+    width: 100%;
+    margin-left: 0px;
+    padding: 0px;
+
+}
+
+footer .nav>li>a {
+  color: black;
+    font-weight: bold;
+    text-shadow: black;
+}
+
+
+footer .nav>li>a:hover {
+  text-decoration: none;
+    background-color: transparent;
+}
+
+.page-header{
+  padding-top: 5px;
+  padding:10px;
+}
+
+.group-val{
+padding:10px;
+}
+
+

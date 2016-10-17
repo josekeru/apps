@@ -1,0 +1,28 @@
+<section class="container" ng-controller="onePetManager">
+	
+	<div class="onePet-element" ng-repeat="pet in pets | filter: {id: petId}:true">
+
+	
+	<ul>
+		<li><strong>NOMBRE DEL CONTACTO: </strong>{{pet.nombre | uppercase}}</li>
+	</ul>
+
+	<ul>
+		<li><strong>TELÉFONO DEL CONTACTO: </strong>{{pet.telefonoContacto | uppercase}}</li>
+	</ul>
+
+	<ul>
+		<li><strong>LOCALIZACIÓN: </strong>{{pet.location | uppercase}}</li>
+	</ul>
+		
+		
+			<ul>
+		<li><strong>DESCRIPCIÓN DEL ANIMAL: </strong>{{pet.description | uppercase}}</li>
+	</ul>
+
+	<img class="event-image" src="upload/{{pet.image}}" alt="">
+
+
+
+	</div>	
+</section> 

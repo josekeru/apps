@@ -1,0 +1,155 @@
+body {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+ }
+
+ main {
+   flex: 1 0 auto;
+ }
+
+nav .nav-wrapper {
+  background-image: url("../img/wood_texture.jpg");
+  background-color: #d5a86d;
+  color: #563909 ;
+  height: 100%;
+  position: relative;
+}
+
+nav ul a {
+  color: #6f4013 ;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1rem;
+  padding: 0 15px;
+  transition: background-color .3s;
+}
+
+nav .brand-logo {
+  color: #fff;
+  display: inline-block;
+  font-size: 2.1rem;
+  padding: 7px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.furnitureButton {
+  background-color: #E5AE6D;
+}
+
+.furnitureLargeIcon {
+  bottom: 53px;
+  position: fixed;
+  right: 31px;
+  width: 41.5px;
+}
+
+.chairIcon {
+  left: 12px;
+  position: fixed;
+  top: 5px;
+  width: 39%;
+}
+
+.tableIcon {
+  left: 6px;
+  position: fixed;
+  top: 9px;
+  width: 72%;
+}
+
+.sofaIcon {
+  left: 4px;
+  position: fixed;
+  top: 10px;
+  width: 78%;
+}
+
+.furnitureIcon {
+  left: 4px;
+  position: fixed;
+  top: 4px;
+  width: 79%;
+}
+
+.textLogo {
+  color: #4F2208;
+  display: inline;
+  font-size: -webkit-xxx-large;
+  font-variant: normal;
+  font-weight: bolder;
+  left: 121px;
+  position: fixed;
+  top: 0;
+}
+
+.small-icon {
+  width: 20%;
+}
+
+.card {
+  display: inline-block;
+  margin-left: 4%;
+  width: 28%;
+}
+
+.card .card-title {
+  font-size: 20px;
+  font-weight: 500;
+}
+.card .card-content .card-title {
+  line-height: 70px;
+}
+
+.card .card-image img {
+  border-radius: 2px 2px 0 0;
+  display: block;
+  margin: auto;
+  position: relative;
+  width: 66%;
+}
+
+.fullCardProduct {
+  margin: 2% 17%;
+  width: 65%;
+}
+
+.slider {
+  background-image: url("../img/wood_texture.jpg");
+  height: 400px;
+  position: relative;
+  width: 100%;
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: #482e0c ;
+}
+
+footer.page-footer {
+  background-color: #d5a86d;
+  background-image: url("../img/wood_texture.jpg");
+  clear: both;
+  margin-top: 20px;
+  padding-top: 20px;
+  width: 100%;
+  bottom: 0;
+}
+
+.rrssIcons {
+  text-align: center;
+}
+
+.rrssElement {
+  margin: 0 4%;
+}
+
+.linkFooterElement {
+  font-size: medium;
+  font-weight: 700;
+  margin: 5% 3%;
+}
+
+.userForm {
+  margin-top: 10%;
+}

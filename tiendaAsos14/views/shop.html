@@ -1,0 +1,28 @@
+<section ng-controller="clothes"><h3><strong>Busqueda por: </strong></h3>
+   <select name="name" ng-model="name"  ng-options="char.name as char.name for char in clothes | unique:'name'">
+          <option value="{{char.name}}">{{char.name}}</option>
+        </select>
+    <section class="clothes-list">
+      <article ng-repeat="clothe in clothes | filter: {name: nameFilter, actualStatus: currentStatus, name: name}" class="clothe">
+      
+
+      
+
+        <div class="clothe-box">
+          <img  width="200" ng-src="{{clothe.image}}" class="clothe-image" alt="{{clothe.image}}" />
+        </div>
+      
+
+        
+        <p>{{clothe.description}}. </p>
+        
+                
+                
+      </article>
+      <form>
+        
+        
+      </form>
+    </section>
+  </section>
+    

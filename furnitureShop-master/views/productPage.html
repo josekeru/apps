@@ -1,0 +1,16 @@
+<div class="row">
+  <div class="col s12 m12">
+    <div class="card fullCardProduct" ng-repeat = "product in catalog | filter : {id:id}:true">
+      <div class="card-image">
+        <img href src="{{product.image}}">
+      </div>
+
+      <div class="card-content">
+        <h3>{{product.name}}</h3>
+        <h5>{{product.des}}</h5>
+        <p>{{product.description}}</p>
+        <p><b>{{product.price}}</b></p>
+      </div>
+    </div>
+  </div>
+</div>

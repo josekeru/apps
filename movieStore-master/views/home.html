@@ -1,0 +1,76 @@
+<div class="container-fluid" >
+	<div class="row">
+		<div class="col s12">
+
+		</div>
+	</div>
+
+
+	<div class="row">
+		<div class="slider">
+			<ul class="slides">
+				<li>
+					<img src="img/Webplayer_Paquete_SERIES_Yomvi_DTH.jpg"> <!-- random image -->
+					<div class="caption center-align">
+
+					</div>
+				</li>
+				<li>
+					<img src="img/Webplayer_TURN_Espias_de_Washington.jpg"> <!-- random image -->
+					<div class="caption left-align">
+
+					</div>
+				</li>
+				<li>
+					<img src="img/webplayer_Ocho_apellidos_catalanes.jpg"> <!-- random image -->
+					<div class="caption right-align">
+
+					</div>
+				</li>
+				<li>
+					<img src="img/Webplayer_Section_Zero.jpg"> <!-- random image -->
+					<div class="caption center-align">
+
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+<div class="container">
+
+<div class=" nav-wrapper" >
+	<form>
+		<div class="col s6 input-field">
+			<input id="search" type="search" ng-model="nameFilter" placeholder="buscar"required>
+			 
+		</div>
+	</form>
+</div>
+
+</div>
+
+
+
+
+<section ng-controller="movies">
+	<div class="container">
+		<article  class="movie-box" ng-repeat="movie in movies | filter: {name: nameFilter}" class="movie ">
+			<a href="#data/movie/{{movie.id}}">
+				<div class="movie-box">
+					<img ng-src="{{movie.image}}" alt="{{movie.image}} " >
+					<p>{{movie.name}}</p>
+					
+				</div>
+			</a>	
+
+		</article>
+	</div>
+</section>
+
+
+
+
+

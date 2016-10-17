@@ -1,0 +1,30 @@
+<section ng-controller="clothes"><h3><strong>Busqueda por: </strong></h3><span>Búsqueda por tipo de animal</span>
+        <input placeholder="Search by type of animal" type="text" ng-model="idFilter"</input>
+   <select name="name" ng-model="name"  ng-options="char.name as char.name for char in clothes | unique:'name'">
+          <option value="{{char.name}}">{{char.name}}</option>
+        </select>
+    <section class="clothes-list">
+      <article ng-repeat="clothe in clothes | filter: {name: nameFilter, actualStatus: currentStatus, name: name, id: idFilter}" class="clothe">
+      
+
+      
+
+        <div class="clothe-box">
+          <a href="{{clothe.url}}"><img  width="200" ng-src="{{clothe.image}}" class="clothe-images" alt="{{clothe.image}}" /><a href="{{clothe.url}}"></a>
+        </div>
+      
+
+        
+        <p><h3>{{clothe.id | uppercase}}</h3></p><p>{{clothe.description | uppercase}}</p>
+        
+                
+                
+      </article>
+
+    
+      <form>
+        
+        
+      </form>
+    </section>
+  </section>

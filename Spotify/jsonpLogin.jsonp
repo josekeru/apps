@@ -1,0 +1,5 @@
+jsonpLog(
+	{"users":[
+	    {"name":"keru", "passwords":"1234"},
+	    {"name": "dani", "passwords":"5678"}
+	]})

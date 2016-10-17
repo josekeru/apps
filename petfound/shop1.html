@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" ng-app='animalTienda'>
+<head>
+   <meta charset="UTF-8">
+   <title>Advanced AngularJS</title>
+ 
+  <script type="text/javascript" src="js/jquery-2.2.4.min.js"></script> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular-messages.js"></script>
+
+
+  <link rel="stylesheet" type="text/css" href="css/style3.css">
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body ng-controller="HomeViewController" >
+
+<nav class="navbar navbar-inverse navbar-fixed-top" id="navbar-ropa" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+            <a class="navbar-brand" href="#/">
+                <span><img id="logo" src="img/razas.jpg"></span><a class="navbar-brand" href="#/"><span>{{appTitle}}</span>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-left">
+                <ul class="nav navbar-nav navbar-right">
+                  <li class="dropdown">
+                        
+                    <li>
+                        <a href="#/">Tienda</a>
+                    </li>
+                    <li>
+                        <a href="#/">Home</a>
+                    </li>                    
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container" ng-view>
+
+      
+    
+
+    </div>
+
+      <footer class="footer">
+        <div class="container">
+            <ul class="nav navbar-nav navbar-right">
+        <li>
+                  <a href="index.html">Back to home</a>
+              </li>
+              <li>
+                  <a href="#" class="">Condiciones</a>
+              </li> 
+              <li>
+                  <a href="#" class="">Copyrigth by JoseKeru</a>
+              </li>                
+            </ul>
+      <ul class="nav navbar-nav navbar-left">
+       
+              <li>
+                  <a href="#" class="">Privacidad y cookies</a>
+              </li>
+
+              <li>
+                  <a href="#" class="">2016 Company, Inc.</a>
+              </li>                  
+            </ul>
+        </div>
+    </footer>
+      
+
+
+
+ <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"> 
+<script src="js/angular.min.js"></script>
+<script src="js/app3.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/angular-ui.min.js"></script>
+<script src="js/angular-route.js"></script>
+<script type="text/javascript" src="js/underscore-min.js"></script> 
+
+
+ 
+</body>
+</html>

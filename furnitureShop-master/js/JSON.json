@@ -1,0 +1,248 @@
+[{
+		"id":"1",
+		"category": "chair",
+		"name": "Eames Plastic DSW",
+		"description": "La silla Eames Plastic Chair DSW de Vitra fue diseñada por Charles & Ray Eames en el año 1950 para el Museo de Arte Moderno de Nueva York y fue la primera silla de fabricación industrial en plástico. Detalles: Carcasa del asiento de polipropileno teñido, sin acolchado. Base madera de arce hilada con traviesas de acero tubular. No apilable.",
+		"des": "Charles & Ray Eames",
+		"image": "img/chair/1.jpg",
+		"price": "337,00 €"
+	}, {
+		"id":"2",
+		"category": "chair",
+		"name": "CH24",
+		"description": "Con un trabajo de sencillez subestimado, la forma elegante y la apariencia delicada de la silla CH24 Wishbone Chair de Carl Hansen oculta una fuerza y funcionalidad confeccionada para cualquier hogar. Diseñada en los años 50 por Hans J. Wegner quien fue para muchos el maestro de las sillas, la CH24 Wishbone se ha convertido en la silla más popular de la firma Carl Hansen y un icono del diseño mundial, apreciada y valorada en todo el mundo. Tambien es conocida como Y chair o Wishbone chair.",
+		"des": "Carl Hansen",
+		"image": "img/chair/2.jpg",
+		"price": "671,00 €"
+	}, {
+		"id":"3",
+		"category": "chair",
+		"name": "Tulip Chair",
+		"description": "La Tulip Chair editada por Knoll fue creada por Eero Saarinen en 1940 y representa sin lugar a dudas la creación más famosa de este prestigioso arquitecto. La Tulip Chair refleja la capacidad de Saarinen para mezclar colores, formas y materiales. Detalles: Carcasa del asiento moldeado en fibra de vidrio. Cojín desenfundable, tapizado, se fija al asiento mediante velcro. Silla de asiento giratorio o fijo.",
+		"des": "Eero Saarinen",
+		"image": "img/chair/3.jpg",
+		"price": "1428,00 €"
+	}, {
+		"id":"4",
+		"category": "chair",
+		"name": "Eames Plastic Chair",
+		"description": "La mecedora Eames Plastic RAR de Vitra diseñada por Charles & Ray Eames oen el año 1950, constituye el producto mas conocido. La forma orgánica de la carcasa de plástico del asiento se combina con diferentes bases (mecedora, metal y madera), fabricándose millones de copias. En su versión actual de polipropileno, las Armchairs ofrecen una comodidad todavía mayor. Detalles: Silla mecedora. Base de cuatro patas de hilo de acero, con traviesas, cromado, sobre dos patines de madera en arce natural color claro. Carcasa del asiento de polipropileno teñido. Sin acolchado.",
+		"des": "Charles & Ray Eames",
+		"image": "img/chair/4.jpg",
+		"price": "519,00 €"
+	}, {
+		"id":"5",
+		"category": "chair",
+		"name": "699 Superleggera",
+		"description": "La silla Modelo 699 Superleggera editada por Cassina es una creación del des italiano Gio Ponti del año 1950 y está considerada una de las obras maestras de su creador. Es una silla muy robusta que sorprende por su ligereza (inferior a 2 kilogramos). Pertenece a la Colección Cassina I Contemporanei de esta exclusiva firma italiana de muebles. Detalles: Estructura en madera de fresno y asiento de caña de la India.",
+		"des": "Gio Ponti",
+		"image": "img/chair/5.jpg",
+		"price": "1416,00 €"
+	}, {
+		"id":"6",
+		"category": "chair",
+		"name": "Saarinen Conferen",
+		"description": "La Silla Conference Saarinen editada por Knoll, fue diseñada por Eero Saarienen en el año 1950. Es, hoy en día, uno de los diseños más famosos de la firma, apareciendo en casi todos los proyectos de interiorismo de Florence Knoll. Detalles: Patas en acero tubular acabado cromo pulido o madera. Asiento y respaldo envolvente tapizados. Altura del asiento 46 cm.",
+		"des": "Eero Saarienen",
+		"image": "img/chair/6.jpg",
+		"price": "1040,00 €"
+	}, {
+		"id":"7",
+		"category": "chair",
+		"name": "Side Bertoia",
+		"description": "Harry Bertoia experimenta en 1950 con el arte de doblar barras de metal, dando como producto una reverenciada colección de sillas, incluida la presente Side Chair editada por Knoll : innovadora, cómoda y sorprendentemente hermosa, su apariencia de delicada filigrana contrasta con su resistencia y durabilidad. Tambien es conocida como Diamond. En propias palabras de Bertoia, Si nos fijamos en esas sillas, son principalmente de aire, como la escultura. El espacio pasa a través de ellas. Detalles: Base cromada. Cojín de asiento reemplazable. Altura del asiento 46 cm.",
+		"des": "Harry Bertoia",
+		"image": "img/chair/7.jpg",
+		"price": "763,00 €"
+	}, {
+		"id":"8",
+		"category": "chair",
+		"name": "Panton",
+		"description": "La Silla Panton de Vitra y diseño de Verner Panton ha pasado, desde su lanzamiento en 1967, por varias fases de producción debido a los avances técnicos en el procesamiento de plásticos. A finales de los años 90 se diseñó en colaboración con Verner Panton la última versión original autorizada por él de este icono de silla. Detalles: Respaldo, asiento y pie de polipropileno teñido. Superficie mate. Apta para uso en exterior, recomendando no exponer la silla al sol más tiempo del necesario, es posible que el color se altere tras exposiciones de tiempo prolongadas. ",
+		"des": "Verner Panton",
+		"image": "img/chair/8.jpg",
+		"price": "241,00 €"
+	}, {
+		"id":"9",
+		"category": "chair",
+		"name": "Straight",
+		"description": "La silla Straight es un diseño de George Nakashima conocido por sus piezas únicas y apreciadas por el respeto a las formas naturales del árbol. La firma Knoll ha personificado la filosofía de Nakashima en este modelo de silla, con sus acabados naturales y mates con siluetas de maderas vivas en nogal. Detalles: Estructura y respaldo en nogal americano. Altura del asiento 42 cm.",
+		"des": "George Nakashima",
+		"image": "img/chair/9.jpg",
+		"price": "1331,00 €"
+	}, {
+		"id":"10",
+		"category": "chair",
+		"name": "Cross Check",
+		"description": "Frank Gehry",
+		"des": "El sillón Cross Check de Knoll es un diseño de Frank Gehry, quien inspirado por la resistencia de las cajas de manzana con las que jugaba de niño, creó su colección de muebles con madera curvada. El diseño trasciende las convenciones de estilo mediante la exploración, como lo hicieron los grandes modernistas. Detalles: Marco construido de tiras de chapa laminada de arce duro, con unión de cola de urea.",
+		"image": "img/chair/10.jpg",
+		"price": "7199,00 €"
+	},
+
+
+	{
+		"id":"11",
+		"category": "table",
+		"name": "Reale",
+		"description": "La emblemática mesa Reale diseñada por el arquitecto Carlo Mollino y editada por la prestigiosa firma de mobiliario Zanotta es sin duda alguna uno de los iconos del diseño italiano de los años 50. La pieza original fue subastada en Christie’s de Nueva York por un precio de 3.824.000 dólares, cifra que representa el record en subastas de mobiliario del siglo XX. Detalles: Tapa de la mesa es de cristal con bordes biselados, de 15 mm de espesor. Estructura de cerezo pintado, color natural o de roble natural, teñido wengé, teñido nogal o pintado a poro abierto, color negro o blanco.",
+		"des": "Carlo Mollino",
+		"image": "img/table/1.jpg",
+		"price": "2930,00 €"
+	}, {
+		"id":"12",
+		"category": "table",
+		"name": "Tulip Saarinen",
+		"description": "Con la mesa Tulip de Knoll su des, Eero Saarinen, en su enfoque purista de la arquitectura y el diseño de interiores, buscó la idea esencial y la plasmó en la solución estructural más eficaz dentro de una unidad global. En su colección de pedestal, que incluye una mesa de comedor, de café y mesa auxiliar, Saarinen llevó a cabo su ideal de unidad formal. Detalles: Base de la mesa en blanco, negro o platino. Tapa con acabado laminado blanco, disponible en otros materiales.",
+		"des": "Eero Saarinen",
+		"image": "img/table/2.jpg",
+		"price": "1985,00 €"
+	}, {
+		"id":"13",
+		"category": "table",
+		"name": "TA04 Bigfoot",
+		"description": "Considerada un clásico del diseño, la mesa  TA04 BIGFOOT ™ de E15 se ha convertido en un icono identificable para la marca. El tablero está formado por siete u ocho piezas macizas de 40 mm de espesor juntas. Las patas de madera maciza, cuadradas, de 135x135 mm, y se cruzan con la tapa de la mesa mostrando la veta y los anillos anuales. En el proceso de secado, las patas forman sus grietas características, lo que hace que cada mesa sea única. Detalles: Estructura en madera de roble aceitado. Altura de la mesa 75 cm. Dos versiones, rectangular en distintas medidas, y cuadrada.",
+		"des": "Philipp Mainzer",
+		"image": "img/table/3.jpg",
+		"price": "3926,00 €"
+	}, {
+		"id":"14",
+		"category": "table",
+		"name": "Tulip Saarinen",
+		"description": "Con la mesa Tulip de Knoll su des, Eero Saarinen, en su enfoque purista de la arquitectura y el diseño de interiores, buscó la idea esencial y la plasmó en la solución estructural más eficaz dentro de una unidad global.En su colección de pedestal, que incluye una mesa de comedor, de café y mesa auxiliar, Saarinen llevó a cabo su ideal de unidad formal. Detalles: Base de la mesa en blanco o negro. Tapa en mármol Arabescato. Disponible en dos medidas (198 y 244 cm) y diferentes acabados de mármol.",
+		"des": "Eero Saarinen",
+		"image": "img/table/4.jpg",
+		"price": "7671,00 €"
+	}, {
+		"id":"15",
+		"category": "table",
+		"name": "Platner",
+		"description": "En la década de los 60 Warren Platner transformó el alambre de acero en una colección de muebles escultóricos, creando así un icono del diseño de la era moderna. La singularidad del mueble y sus formas armónicas son el resultado de la soldadura de varillas de acero con formas curvas, creando un efecto moiré y consiguiendo la calidad decorativa, suave y graciosa, que Platner pretendía alcanzar. La colección de mesas Platner editadas por Knoll incluye mesa de comedor, mesa de café y mesa auxiliar. Detalles: Base níquel pulido o bronce metalizado y tapa de la mesa en cristal. Diámetro 135 cm.",
+		"des": "Warren Platner",
+		"image": "img/table/5.jpg",
+		"price": "3509,00 €"
+	}, {
+		"id":"16",
+		"category": "table",
+		"name": "Concorde",
+		"description": "La mesa Concorde es un diseño de Emmanuel Gallina para la firma Poliform capaz de proponer una forma primaria que valoriza la naturaleza de la madera interpretando sus ligeras formas de un modo especial. Detalles: mesa de 2185 mm de longitud, con estructura en nogal y sobre de mármol Calacatta oro brillo o mate.",
+		"des": "Emmanuel Gallina",
+		"image": "img/table/6.jpg",
+		"price": "7241,00 €"
+	}, {
+		"id":"17",
+		"category": "table",
+		"name": "Gueridon",
+		"description": "Prouvé diseñó la mesa Guéridon editada por Vitra para la Universidad de París, donde sorprendió principalmente por su claridad constructiva. Detalles: Tablero en madera maciza tratada al aceite; roble natural, roble ahumado o nogal americano. Base a juego del tablero. Refuerzo de acero tubular con revestimiento en polvo. Altura de la mesa 74cm.",
+		"des": "Prouvé",
+		"image": "img/table/7.jpg",
+		"price": "1728,00 €"
+	}, {
+		"id":"18",
+		"category": "table",
+		"name": "Athos",
+		"description": "La mesa Athos es un diseño de Paolo Piva para B&B Italia y está disponible en dos tamaños, tanto para la versión fija como para la versión extensible. Detalles: Mesa fija. Tablero de madera en roble. Estructura en acero barnizado.",
+		"des": "Paolo Piva",
+		"image": "img/table/8.jpg",
+		"price": "4463,00 €"
+	}, {
+		"id":"19",
+		"category": "table",
+		"name": "LC15",
+		"description": "La mesa LC15 editada por Cassina es una creación de Le Corbusier en el año 1958. Este modelo de mesa tiene múltiples usos en función del espacio en el que se ubique, pudiendo ser empleada como mesa de conferencias, seminarios, reuniones y, por supuesto, en espacios particulares como mesa de comedor. Detalles: Mesa redonda con la base de rejilla en acero pulido disponible en tres colores brillantes (gris, verde brillante y negro mate). Tapa de roble acabado mate natural.",
+		"des": "Cassina",
+		"image": "img/table/9.jpg",
+		"price": "4325,00 €"
+	}, {
+		"id":"20",
+		"category": "table",
+		"name": "TL3 225 cm",
+		"description": "La mesa rectangular 839 TL3 con sobre de 225 cm de madera es un diseño de Franco Albini para la marca Cassina. Forma parte de una colección de mesas con estructura cuadrada, rectangular o redonda en diferentes tamaños y acabados, de cuatro patas y travesaños ensamblados con juntas negras metálicas. Detalles: fabricada en madera de nogal canaletto, fresno natural o fresno teñido de negro con sobre de 225 X 85 cm de 3 cm de grosor.",
+		"des": "Cassina",
+		"image": "img/table/10.jpg",
+		"price": "2746,00 €"
+	},
+
+
+	{
+		"id":"21",
+		"category": "sofa",
+		"name": "Bristol",
+		"description": "El sofá Bristol de Poliform es un diseño de Jean-Marie Massaud caracterizado por la estética que le proporcionan sus formas suaves y su confort acogedor, gracias a la doble costura y asociadas a la ligereza de los finos brazos. Estructura en poliuretano flexible moldeado. Sofá modular formado por diferentes módulos, con soluciones compuestas de gran originalidad. Precio para sofá compuesto por tres módulos de 97 cm (módulo terminal izquierdo, derecho y central) y 3 cojines dobles de respaldo, todo tapizado en tejido de categoría C.",
+		"des": "Jean-Marie Massaud",
+		"image": "img/sofa/1.jpg",
+		"price": "8369,00 €"
+	}, {
+		"id":"22",
+		"category": "sofa",
+		"name": "Groundpiece",
+		"description": "El sofá Groundpiece de Flexform es un diseño de Antonio Citterio con estantes contenedores (altura de 56 cm), utilizados como apoyabrazos, respaldo o mesita portaobjetos y estructura de metal revestido de cuero. Materiales: Estructura de metal con relleno de poliuretano revestido con forro protector. Cojines de asiento de pluma con inserto de material indeformable, o en poliuretano y dracon. Cojines de respaldo de pluma.",
+		"des": "Antonio Citterio",
+		"image": "img/sofa/2.jpg",
+		"price": "6695,00 €"
+	}, {
+		"id":"23",
+		"category": "sofa",
+		"name": "Maralunga",
+		"description": "El mítico sofá Maralunga es un diseño de Vico Magistretti del año 1973 que produce y distribuye Cassina en exclusiva dentro de su Colección Contemporanei. El Maralunga de Cassina es una de las piezas de culto del diseño para muchos arquitectos e interioristas, un sofá de diseño digno de los mejores ambientes. Detalles: Disponible en sillón, puf y sofá de dos y tres plazas en diferentes anchos y tapizado en piel o tela. Muestrario de tejidos disponibles en tienda.",
+		"des": "Vico Magistretti",
+		"image": "img/sofa/3.jpg",
+		"price": "4985,00 €"
+	}, {
+		"id":"24",
+		"category": "sofa",
+		"name": "Ray",
+		"description": "El sistema de asientos Ray de B&B Italia nació de la convergencia del cuidado de las proporciones y volúmenes típicos de Antonio Citterio. Se puede ampliar para incluir chaise longue, elemento terminal y otoman. Su objetivo principal es el confort, aunque el diseño está presente a través de los detalles. Su pie en forma de U, junto con los cojines de los asientos, crea una imagen elegante. Detalles: sofá en diferentes configuraciones y acabados, disponibles una versión clásica y otra versión lounge que ofrece una posición más cómoda y relajada.",
+		"des": "Antonio Citterio",
+		"image": "img/sofa/4.jpg",
+		"price": "5818,00 €"
+	}, {
+		"id":"25",
+		"category": "sofa",
+		"name": "Tufty Time",
+		"description": "El sofá modular Tufty-Time es un diseño de Patricia Urquiola para la firma B&B Italia que reinterpreta tipologías clásicas como ‘chesterfield’ y ‘capitonné’ proponiendo además un sistema informal mediante configuraciones libres y versátiles. Partiendo del puf y combinando los diferentes módulos con sus profundidades, se obtienen sofás tradicionales, con chaise longue, angulares y elementos isla que permiten sentarse en círculo. Tufty- Time se convierte en un refugio en el que poderse abandonar. Detalles: Tapicería en piel y tejido.",
+		"des": "Patricia Urquiola",
+		"image": "img/sofa/5.jpg",
+		"price": "6080,00 €"
+	}, {
+		"id":"26",
+		"category": "sofa",
+		"name": "Bend",
+		"description": "En su ya larga asociación con B&B Italia, Patricia Urquiola nos ha sorprendido con todas sus creaciones, y en esta ocasión nos enseña un modelo de sofá que quizá sea un concepto clásico pero que ella renueva con su habitual elegancia, dando un toque más contemporáneo y moderno. Se trata del sofá Bend, un modelo que admite varias combinaciones. Hablamos de un concepto clásico en el sentido de tradicional, pues al ver las fotografía vemos que es un amplio sofá, con un gran respaldo y con grandes asientos muy confortables.",
+		"des": "Patricia Urquiola",
+		"image": "img/sofa/6.jpg",
+		"price": "4971,00 €"
+	}, {
+		"id":"27",
+		"category": "sofa",
+		"name": "Chester Moon",
+		"description": "El sofá Chester Moon de la firma italina Baxter fue diseñado por Paola Navone. Se trata de un sofá que transmite elegancia y refinamiento. Disponible en varios tamaños, con capitoné de gran espesor. Chester Moon es un sofá inimitable y su forma muestra una fuerte personalidad. Detalles: Serie de asientos y sofás incluyendo un sillón y un puf, además de cuatro tamaños disponibles para el sofá.",
+		"des": "PNavone",
+		"image": "img/sofa/7.jpg",
+		"price": "12135,00 €"
+	}, {
+		"id":"28",
+		"category": "sofa",
+		"name": "Sofa 8",
+		"description": "El sofá 202 8 es un diseño de Piero Lissoni para la firma Cassina disponible en diferentes combinaciones, desde una butaca, sofá de 2 y 3 plazas, chaise longue y diversas unidades modulares. Detalles: Estructura de aluminio pulido o de color antracita. Bastidor en aluminio con tiras elásticas y recubierta de tela o cuero. Paneles en espuma de poliuretano sin CFC cubierto en tela o piel.",
+		"des": "Piero Lissoni",
+		"image": "img/sofa/8.jpg",
+		"price": "4931,00 €"
+	}, {
+		"id":"29",
+		"category": "sofa",
+		"name": "Charles",
+		"description": "Uno o varios sofás, es el principio en el que se inspira Charles de Antonio Citterio para B&B Italia que, gracias a elementos diferentes, crea un elevado número de asientos. Nacen así composiciones lineales, angulares y en particular con los elementos terminales chaise longue, composiciones de tipo península que encuentran un espacio perfecto en cualquier ambiente.  Un cojín como asiento único, una serie de cojines libres, una imagen ligera acentuada por el diseño minimalista de las patas en aluminio.",
+		"des": "Antonio Citterio",
+		"image": "img/sofa/9.jpg",
+		"price": "3865,00 €"
+	}, {
+		"id":"30",
+		"category": "sofa",
+		"name": "Lifesteel",
+		"description": "El sofá modular Lifesteel es un diseño de la firma Flexform, con estructura de metal en diferentes acabados,  marco de asiento de metal con acolchado de poliuretano revestido en cuero de diferentes colores, brazos y respaldo de poliuretano inyectado con inserto de metal, cojín del asiento de pluma con inserto de material indeformable y los del respaldo de pluma con rulo de dracon. Tapicería en tejido o piel desenfundable. Detalles: Sofá de 200 cm con 2 cojines respaldo y altura del asiento de 35 cm. Tapizado en piel de categoría media.",
+		"des": "firma Flexform",
+		"image": "img/sofa/10.jpg",
+		"price": "9851,00 €"
+	}
+]

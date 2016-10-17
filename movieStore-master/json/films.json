@@ -1,0 +1,213 @@
+[
+	{
+		"id": "1",
+		"name": "X-Men: Apocalipsis",
+		"image": "img/x-men-apocalipsis.jpg",
+		"description": "Desde el inicio de los tiempos Apocalipsis, el mutante más poderoso que ha existido nunca, era adorado como un dios mientras acumulaba los poderes del resto de mutantes convirtiéndose en un ser inmortal. Tras miles de años dormido, despierta en un mundo que no le gusta y por ello recluta un equipo, encabezado por Magneto, para acabar con toda la humanidad y crear un nuevo orden mundial. Pero el Profesor X, con la ayuda de Mística, se unirá a un grupo de jóvenes mutantes para tratar de detener al mayor enemigo contra el que se hayan enfrentado jamás. ",
+		"category": "Action"
+	},
+	{
+		"id": "2",
+		"name": "Capitán América: Civil War",
+		"image": "img/capitan-america-civil-war.jpg",
+		"description": "Después de que otro incidente internacional involucre a Los Vengadores, causando varios daños colaterales, aumentan las presiones políticas para instaurar un sistema que exija más responsabilidades y que determine cuándo deben contratar los servicios del grupo de superhéroes. Esta nueva situación dividirá a Los Vengadores, mientras intentan proteger al mundo de un nuevo y terrible villano. Tercera entrega de la saga Capitán América",
+		"category": "Action"
+	},
+	{
+		"id": "3",
+		"name": "The Assassin",
+		"image": "img/the-assassin.jpg",
+		"description": "China, siglo IX. Nie Yinniang regresa a casa de su familia tras años de exilio. Educada por una monja que la inicia en las artes marciales, es una auténtica justiciera cuyo objetivo es eliminar a los tiranos. Su maestro le encarga la misión de matar a su primo Tian Ji'an, gobernador disidente de la provincia militar de Weibo. Nie tendrá que elegir: sacrificar al hombre que ama o romper definitivamente con la Secta de los Asesinos.",
+		"category": "Action"
+	},
+	{
+		"id": "4",
+		"name": "Objetivo: La Casa Blanca",
+		"image": "img/objetivo-la-casa-blanca.jpg",
+		"description": "Tras un accidente en el que sólo consiguió salvar la vida del Presidente Asher (Aaron Eckhart), el agente del Servicio Secreto Mike Banning (Gerard Butler) decide dejar su puesto para trabajar en el Departamento del Tesoro. Pero, cuando un comando norcoreano liderado por Kang (Rick Yune) ataca la Casa Blanca y toma como rehenes al Presidente y a su equipo, Banning se verá obligado a entrar de nuevo en acción.",
+		"category": "Action"
+	},
+	{
+		"id": "5",
+		"name": "El señor de los anillos: El retorno del rey",
+		"image": "img/retorno-del-rey.jpg",
+		"description": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de decidir el destino de la Tierra Media, y, por primera vez, parece que hay una pequeña esperanza. El interés del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, cuyo trono será reclamado por Aragorn. Sauron se dispone a lanzar un ataque decisivo contra Gondor. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, con la esperanza de llegar al Monte del Destino.",
+		"category": "Action"
+	},
+	{
+		"id": "6",
+		"name": "El caballero oscuro",
+		"image": "img/el-caballero-oscuro.jpg",
+		"description": "Batman/Bruce Wayne (Christian Bale) regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon (Gary Oldman) y del Fiscal del Distrito Harvey Dent (Aaron Eckhart), Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker (Heath Ledger), un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+		"category": "Action"
+	},
+	{
+		"id": "7",
+		"name": "Origen",
+		"image": "img/origen.jpg",
+		"description": "Dom Cobb (DiCaprio) es un experto en el arte de apropiarse, durante el sueño, de los secretos del subconsciente ajeno. La extraña habilidad de Cobb le ha convertido en un hombre muy cotizado en el mundo del espionaje, pero también lo ha condenado a ser un fugitivo y, por consiguiente, a renunciar a llevar una vida normal. Su única oportunidad para cambiar de vida será hacer exactamente lo contrario de lo que ha hecho siempre: la incepción, que consiste en implantar una idea en el subconsciente en lugar de sustraerla. Sin embargo, su plan se complica debido a la intervención de alguien que parece predecir cada uno de sus movimientos, alguien a quien sólo Cobb podrá descubrir. ",
+		"category": "Action"
+	},
+	{
+		"id": "8",
+		"name": "Gladiator",
+		"image": "img/gladiator.jpg",
+		"description": "En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio (Richard Harris) decide transferir el poder a Máximo (Russell Crowe), bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo (Joaquin Phoenix), que aspiraba al trono, no lo acepta y trata de asesinar a Máximo. ",
+		"category": "Action"
+	},
+	{
+		"id": "9",
+		"name": "Piratas del Caribe: La maldición de la Perla Negra",
+		"image": "img/piratas-del-caribe.jpg",
+		"description": "Mar Caribe, siglo XVIII. El aventurero capitán Jack Sparrow piratea en aguas caribeñas, pero su andanzas terminan cuando su enemigo, el Capitán Barbossa, después de robarle su barco, el Perla Negra, ataca la ciudad de Port Royal y secuestra a Elizabeth Swann, la hija del Gobernador. Will Turner, amigo de la infancia de Elizabeth, se une a Jack para rescatarla y recuperar el Perla Negra. Pero Barbossa y su tripulación son víctimas de un conjuro que los condena a vivir eternamente y a transformarse cada noche en esqueletos vivientes. El conjuro sólo puede romperse si devuelven una pieza de oro azteca y saldan una deuda de sangre. El rescate de la bella Elizabeth será una tarea difícil, pues la maldición es real y será difícil enfrentarse con quienes no pueden morir. ",
+		"category": "Action"
+	},
+	{
+		"id": "10",
+		"name": "300.jpg",
+		"image": "img/300.jpg",
+		"description": "Adaptación del cómic de Frank Miller (autor del cómic 'Sin City') sobre la famosa batalla de las Termópilas (480 a.C.). El objetivo de Jerjes, emperador de Persia, era la conquista de Grecia, lo que desencadenó las Guerras Médicas. Dada la gravedad de la situación, el rey Leónidas de Esparta (Gerard Butler) y 300 espartanos se enfrentaron a un ejército persa que era inmensamente superior. ",
+		"category": "Action"
+	},
+	{
+		"id": "11",
+		"name": "La verdad duele",
+		"image": "img/la-verdad-duele.jpg",
+		"description": "El Dr. Bennet Omalu (Will Smith) es un neuropatólogo forense que descubrió el síndrome postconmoción cerebral, que tanto daño causó a numerosos jugadores de fútbol americano, provocando incluso el suicidio de muchas estrellas de la liga NFL afectadas por el síndrome, como Dave Duerson y Junior Seau. ",
+		"category": "Drama"
+	},
+	{
+		"id": "12",
+		"name": "Marte",
+		"image": "img/marte.jpg",
+		"description": "Durante una misión tripulada a Marte, el astronauta Mark Watney es dado por muerto tras una terrible tormenta y abandonado por la tripulación, que pone rumbo de vuelta a la Tierra. Pero Watney ha sobrevivido y se encuentra atrapado y solo en el hostil planeta rojo. Con suministros escasos, deberá recurrir a su ingenio y a su instinto de supervivencia para encontrar la manera de comunicar a la Tierra que sigue vivo.",
+		"category": "Drama"
+	},
+	{
+		"id": "13",
+		"name": "Everest",
+		"image": "img/everest.jpg",
+		"description": "Inspirada en los hechos que tuvieron lugar durante un intento por alcanzar el pico más alto del mundo, narra las peripecias de dos expediciones que se enfrentan a la peor tormenta de nieve conocida. En un desesperado esfuerzo por sobrevivir, el temple de los alpinistas se ve puesto a prueba al tener que enfrentarse a la furia desatada de los elementos y a obstáculos casi insuperables.",
+		"category": "Drama"
+	},
+	{
+		"id": "14",
+		"name": "El secreto de Adaline",
+		"image": "img/el-secreto-de-adeline.jpg",
+		"description": "Adaline Bowman (Blake Lively), nacida a comienzos del siglo XX, adquiere a los 29 años la eterna juventud tras un accidente. Tras años de vida solitaria y permanecer con la misma edad durante 8 décadas, conoce a Ellis Jones (Michiel Huisman), un hombre por el que podría merecer la pena perder la inmortalidad. ",
+		"category": "Drama"
+	},
+	{
+		"id": "15",
+		"name": "En el corazón del mar",
+		"image": "img/En-el-corazon-del-mar.jpg",
+		"description": "En el invierno de 1820, Owen Chase (Hemsworth) y otros marineros de la tripulación del Essex sobrevivieron en alta mar en durísimas condiciones después de que el barco chocara con una enorme ballena blanca. Owen, obsesionado con la idea de dar caza al cetáceo, se enfrentó a las tormentas, al hambre y a la desesperación. Inspirada en la historia real en la que se basó Herman Melville para escribir el famoso relato 'Moby Dick'.",
+		"category": "Drama"
+	},
+	{
+		"id": "16",
+		"name": "Southpaw",
+		"image": "img/southpaw.jpg",
+		"description": "Pese a haber gozado de gloria y de premios en su pasado, un luchador (Jake Gyllenhaal) ha caído en desgracia. Sin embargo, no rinde y toma la decisión de mejorar su imagen por el bien de su mujer (Rachel McAdams) y su hija. ",
+		"category": "Drama"
+	},
+	{
+		"id": "17",
+		"name": "woodlawn",
+		"image": "img/woodlawn.jpg",
+		"description": "En el año 1973, un renacer espiritual consiguió que el entrenador y casi todos los jugadores de fútbol americano de un equipo de instituto, el Woodlawn, consiguieran superar sus diferencias de racismo y odio.",
+		"category": "Drama"
+	},
+	{
+		"id": "18",
+		"name": "6 Years",
+		"image": "img/6-years.jpg",
+		"description": "El amor de una pareja aparentemente ideal comienza a desmoronarse debido a circunstancias inesperadas que tornan su vida inestable y violenta, amenazando el futuro que siempre habían imaginado.",
+		"category": "Drama"
+	},
+	{
+		"id": "19",
+		"name": "Lamb",
+		"image": "img/lamb.jpg",
+		"description": "Tras dos recientes y dramáticos acontecimientos en su vida familiar, David parece abocado a la desesperación y la soledad. Pero entonces se topa con una niña de once años, Tommie, en la que fija su atención.",
+		"category": "Drama"
+	},
+	{
+		"id": "20",
+		"name": "Last Days in the Desert",
+		"image": "img/last-day-in-desert.jpg",
+		"description": "Tras dos recientes y dramáticos acontecimientos en su vida familiar, David parece abocado a la desesperación y la soledad. Pero entonces se topa con una niña de once años, Tommie, en la que fija su atención.",
+		"category": "Drama"
+	},
+	{
+		"id": "21",
+		"name": "La bruja",
+		"image": "img/la-bruja.jpg",
+		"description": "Nueva Inglaterra, 1630. Un matrimonio de colonos cristianos, con cinco hijos, vive cerca de un bosque que, según las creencias populares, está dominado por el mal. Cuando el hijo recién nacido desaparece y los cultivos no crecen, los miembros de la familia se rebelan los unos contra los otros: un mal sobrenatural les acecha en el bosque cercano. ",
+		"category": "Terror"
+	},
+	{
+		"id": "22",
+		"name": "The Asylum",
+		"image": "img/the-asylum.jpg",
+		"description": "Un grupo de adolescentes libera accidentalmente un espíritu que comienza a poseerles uno por uno.",
+		"category": "Terror"
+	},
+	{
+		"id": "23",
+		"name": "Visions",
+		"image": "img/visions.jpg",
+		"description": "Gira en torno a una mujer embarazada y su marido que se mudan a un viñedo. Allí, ella empieza a sufrir alucinaciones cada vez más reales. ",
+		"category": "Terror"
+	},
+	{
+		"id": "24",
+		"name": "Insidious 3",
+		"image": "img/insidious-3.jpg",
+		"description": "Elise Rainier (Lin Shaye) acepta a regañadientes utilizar su capacidad de ponerse en contacto con los muertos a fin de ayudar a una adolescente (Stefanie Scott) que se ha convertido en el blanco de una peligrosa entidad sobrenatural. ",
+		"category": "Terror"
+	},
+	{
+		"id": "25",
+		"name": "Poltergeist",
+		"image": "img/poltergeist.jpg",
+		"description": "Cuenta la historia de una familia que, tras mudarse a una nueva casa, se ve azotada por los espíritus de los que la habitaron en el pasado. El foco del ataque sobrenatural se centra en la hija más pequeña del matrimonio. Remake del clásico de 1982. ",
+		"category": "Terror"
+	},
+	{
+		"id": "26",
+		"name": "La mujer de negro: El ángel de la muerte",
+		"image": "img/mujer-de-negro.jpg",
+		"description": "Huyendo de los horrores de la Segunda Guerra Mundial (1939-1945), ocho escolares, acompañados por la directora del colegio (Helen McCrory) y una profesora (Phoebe Fox), son evacuados de Londres y trasladados a una aldea. Allí conocen a Harry Burnstow (Jeremy Irvine), un piloto de la RAF que, al igual que ellos, se alojará en una ruinosa casa situada en una isla que sólo se comunica con tierra firme por la carretera de las Nueve Vidas, una calzada que desaparece con las mareas. Su presencia no tarda en despertar una fuerza malévola que surge de la oscuridad y lleva décadas rondando esa mansión en ruinas: se trata de La mujer de negro",
+		"category": "Terror"
+	},
+	{
+		"id": "27",
+		"name": "Sinister 2",
+		"image": "img/sinister2.jpg",
+		"description": "Después de que Ashley Oswalt descuartizara a su familia y desapareciera con Mr. Boggie, una madre y sus hijos mellizos se mudan a la casa donde unos niños poseídos cometieron los asesinatos. Mr. Boogie ha vuelto y acecha a uno de ellos. ",
+		"category": "Terror"
+	},
+	{
+		"id": "28",
+		"name": "El efecto Lázaro",
+		"image": "img/el-efecto-lazaro.jpg",
+		"description": "Un equipo de estudiantes de investigación está mapeando el cerebro humano cuando accidentalmente matan a uno de ellos. El resto, al intentar reanimar a su colega, desatarán una fuerza letal. Luchando por sus vidas, el equipo deberá contener al recién vuelto a la vida en el laboratorio antes de que se entere en el mundo entero.",
+		"category": "Terror"
+	},
+	{
+		"id": "29",
+		"name": "The Girl in the Photographs",
+		"image": "img/the-girl.jpg",
+		"description": "En uno de esos pueblos donde nunca ocurre nada, un psicópata empieza a masacrar jóvenes, sacando fotografías a los (ya no tan bellos) cuerpos en posiciones que “homenajean” las instantáneas de un celebre fotógrafo sospechosamente similar a Terry Richardson.",
+		"category": "Terror"
+	},
+	{
+		"id": "30",
+		"name": "Expediente Warren: The Conjuring",
+		"image": "img/expediente-warren.jpg",
+		"description": "Basada en una historia real documentada por los reputados demonólogos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivió la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fenómenos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno.",
+		"category": "Terror"
+	}
+
+]

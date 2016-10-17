@@ -1,0 +1,53 @@
+ <div class="row" ng-controller="formController">
+  <form id="formulario" name="formulario" class=" col s6 offset-s3" required>
+    <div class="row">
+
+
+      <div class="input-field col s6">
+        <i class="material-icons prefix">account_circle</i>
+        <input  name="first_name" type="text" class="validate" ng-model="firstName" required>
+        <label >First Name</label>
+        <div ng-messages="formulario.first_name.$error">
+          <div ng-message="required">This field is required</div>
+        </div>
+      </div>
+
+
+      <div class="input-field col s6">
+        <input name="last_name" type="text" class="validate" ng-model="lastName" required >
+        <label for="last_name">Last Name</label>
+         <div ng-messages="formulario.last_name.$error">
+          <div ng-message="required">This field is required</div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="input-field col s12">
+        <i class="material-icons prefix">email</i>
+        <input name="email" type="email" class="validate" ng-model="email" required >
+        <label for="email">Email</label>
+         <div ng-messages="formulario.email.$error">
+          <div ng-message="required">This field is required</div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="input-field col s12">
+        <i class="material-icons prefix">mode_edit</i>
+        <textarea name="message" class="materialize-textarea" ng-model="messageModel" required ></textarea>
+        <label for="textarea1">Mensaje</label>
+         <div ng-messages="formulario.message.$error">
+          <div ng-message="required">This field is required</div>
+        </div>
+      </div>
+    </div>
+
+    <button class="btn waves-effect waves-light right " type="submit" name="action" ng-disabled="!formulario.$valid">Submit
+      <i class="material-icons right">send</i>
+    </button>
+  </form>
+</div>

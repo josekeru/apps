@@ -1,0 +1,37 @@
+<header>
+
+		<app-header>
+
+		</app-header>
+
+	</header>
+<div ng-style="{'background-image': 'url()'}">
+
+<section class="container" ng-controller="dataManager">
+	<form>
+		<span>Búsqueda por localización </span><input placeholder="Búsqueda por localización" type="text" ng-model="locationFilter">
+		<span>Búsqueda por tipo de animal</span>
+				<input placeholder="Búsqueda por tipo animal" type="text" ng-model="typeFilter"</input>
+				<span>Búsqueda por perdido/encontrado</span>
+				<input placeholder="Búsqueda por perdido/encontrado" type="text" ng-model="optionFilter"</input>
+			<div class="text-center button-submit">
+		<button type="button" class="btn btn-success"><a href="#/">Volver al Home</a></button>
+		</div></form>
+	<div class="pet-element" ng-repeat="pet in pets | filter: {location: locationFilter, type: typeFilter, option: optionFilter}">
+		<p-element></p-element>
+	</div>	
+</section>
+<footer>
+
+		<app-footer>
+
+		</app-footer>
+
+	</footer>
+
+
+
+
+
+
+
