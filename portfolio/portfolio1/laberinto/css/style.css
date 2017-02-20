@@ -1,0 +1,163 @@
+h1,
+h2 {
+    text-align: center;
+}
+
+p {
+    width: 600px;
+    margin: 1em auto;
+}
+
+#laberinto {
+    margin: auto;
+    position: relative;
+    height: 320px;
+    width: 600px;
+}
+
+#start,
+#end {
+    position: absolute;
+    top: 205px;
+    height: 30px;
+    width: 50px;
+    border: 1px solid black;
+    padding: 5px;
+    cursor: default;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 25pt;
+    text-align: center;
+}
+
+#start {
+    width: 75px
+}
+
+#laberinto #start {
+    background-color: #88ff88;
+    left: 0;
+}
+
+#laberinto #end {
+    background-color: #8888ff;
+    right: -2px;
+}
+
+div.muro {
+    background-color: #eeeeee;
+    border: 1px solid black;
+    position: absolute;
+}
+
+div.perdiste {
+    background-color: #ff8888;
+}
+
+#laberinto #muro1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 200px;
+    width: 150px;
+    z-index: 1;
+}
+
+#laberinto #muro2 {
+    position: absolute;
+    z-index: 5;
+    border-left: none;
+    border-right: none;
+    left: 151px;
+    height: 50px;
+    width: 300px;
+}
+
+#laberinto #muro3 {
+    z-index: 3;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    left: 450px;
+    height: 200px;
+    width: 150px;
+}
+
+#laberinto #muro4 {
+    position: absolute;
+    top: 0;
+    left: 280px;
+    height: 200px;
+    width: 60px;
+    z-index: 4;
+}
+
+#laberinto #muro5 {
+    position: absolute;
+    top: 0;
+    left: 281px;
+    z-index: 900;
+    border: none;
+    border-top: 1px solid black;
+    width: 60px;
+    height: 52px;
+    z-index: 10;
+}
+
+#laberinto #muro6 {
+    bottom: 20px;
+    width: 600px;
+    height: 50px;
+}
+
+#laberinto #muro7 {
+    bottom:20px;
+    left:190px;
+    width: 50px;
+    height: 210px;
+    z-index:10;
+}
+
+#laberinto #muro8 {
+    bottom:20px;
+    left:370px;
+    width: 50px;
+    height: 210px;
+    z-index:10;
+}
+
+#laberinto #muro9 {
+    bottom:21px;
+    left:180px;
+    width: 72px;
+    height: 50px;
+    z-index:11;
+    border: none;
+}
+
+#laberinto #muro10 {
+    bottom:21px;
+    left:360px;
+    width: 72px;
+    height: 50px;
+    z-index:11;
+    border: none;
+}
+
+#timer {
+    position:relative;
+    color: #222222;
+    font-size:2em;
+    font-family: sans-serif;
+    font-weight: bold;
+    z-index:20;
+    left:-12px;
+}
+
+#muroInicio {
+  position:relative;
+  top:255px;
+    left:252px;
+    width: 72px;
+    height: 60px;
+    z-index:1;
+    border: none;
+}

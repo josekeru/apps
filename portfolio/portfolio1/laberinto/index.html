@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>CV</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+      <link rel="icon" type="image/png" href="http://img01.deviantart.net/be0e/i/2014/128/e/4/jk_logo_by_mrlegend007-d5fukvr.png" />
+
+  
+</head>
+
+<body>
+  
+    <h1>Laberinto! </h1>
+    <h2>Tendrás que pasar esta prueba para conseguir la información de mi contacto, es fácil!</h2>
+    <h2>Buena suerte!</h2>
+    <h2 id="statusParr">Para empezar haz click en Inicio</h2>
+
+    <div id="muroInicio" onmouseover="mOverMuro(this)"></div>
+
+    <!-- Laberinto -->
+    <div id="laberinto" onmouseout="mOut(this)">
+        <div id="start" onclick="iniciarJuego()">Inicio</div>
+        <div class="muro perdiste" id="muro1" onmouseover="mOver(this)"></div>
+        <div class="muro perdiste" id="muro2" onmouseover="mOver(this)"> </div>
+        <div class="muro perdiste" id="muro3" onmouseover="mOver(this)"></div>
+
+
+        <div class="muro perdiste" id="muro4" onmouseover="mOver(this)"></div>
+        <div class="muro perdiste" id="muro5" onmouseover="mOver(this)"><span id="timer">00:00</span></div>
+        <div class="muro perdiste" id="muro6" onmouseover="mOver(this)"></div>
+        <div class="muro perdiste" id="muro7" onmouseover="mOver(this)"></div>
+        <div class="muro perdiste" id="muro8" onmouseover="mOver(this)"></div>
+
+        <div class="muro perdiste" id="muro9" onmouseover="mOver(this)"></div>
+        <div class="muro perdiste" id="muro10" onmouseover="mOver(this)"></div>
+
+        <div id="end" onmouseover="terminarJuego()">Fin</div>
+
+    </div>
+
+    <p>
+        El objetivo del juego es guiar el cursor mediante el raton desde el area de inicio hasta el area final en menos de 8 segundos sin tocar las paredes del pasadizo.
+
+    </p>
+  
+    <script src="js/index.js"></script>
+
+</body>
+</html>
